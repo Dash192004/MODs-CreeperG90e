@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(16, 16, 63);
+    color: aliceblue;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+
+
